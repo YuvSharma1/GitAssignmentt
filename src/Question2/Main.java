@@ -10,6 +10,6 @@ public class Main {
 		System.out.println(myStr.lastIndexOf("u"));
 		myStr+=" in the night";
 		System.out.println(myStr);
-	}
+	  }
 
 }
